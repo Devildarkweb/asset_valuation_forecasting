@@ -1,0 +1,17 @@
+.sentiment-container {
+    background: #fff3cd;
+    padding: 20px;
+  }
+  
+  .sentiment-container ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sentiment-container li {
+    margin-bottom: 10px;
+    background: #fff;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  

@@ -1,0 +1,11 @@
+.dashboard-container {
+  padding: 20px;
+  background: #eef2f3;
+}
+
+.user-info p {
+  background: #fff;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 5px;
+}
